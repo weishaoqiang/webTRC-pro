@@ -1,0 +1,15 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "hackathon test",
+  "main": "index.js",
+  "author": "Cyber Liang",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  },
+  "scripts": {
+    "start": ""
+  }
+}
